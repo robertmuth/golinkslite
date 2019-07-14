@@ -6,9 +6,8 @@ Go Links Lite
 
 Go-Links-Lite is a simple URL shortener modelled after similar internal tools 
 used by many "tech companies".
-
-Program consists of a single Python 3 file and the only heavy dependency is 
-the 'flask' web framework. It does not use authentication and all links are 
+It consists of a single Python 3 file and the only heavy dependency is the
+'flask' web framework. It does not use authentication and all links are 
 shared and editable by everybody. The backend consists of a json text file. 
 
 It is usually configured to run on port 80 on a machine which is known by the 
