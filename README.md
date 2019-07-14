@@ -1,5 +1,4 @@
-# golinkslite
-Go Links Lite
+# Go Links Lite
 
 (c) 2019 Robert Muth (GNU General Public License, Version 3)
 
